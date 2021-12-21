@@ -6,5 +6,5 @@
 
       该服务基于python flask 在接收jira webhook数据后将数据存入mysl数据库;
 
-run
+ run
       python apps/app/work.py
